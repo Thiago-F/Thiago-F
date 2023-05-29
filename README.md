@@ -1,8 +1,28 @@
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Thiago</h1></summary>
+  </ul>
+</div>
+
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif"
+       alt="snake" /></a>
+</div>
+
+<!-- 
 <br>
 <h2 align="center">Introduction</h2>
 
-My name is Thiago Fialho and I am a self-taught full stack developer with about 4 years of experience enthusiast for technology, gaming and innovation.
+My name is Thiago Fialho and I am a self-taught full stack developer with about 4 years of experience enthusiast for technology, gaming and innovation. 
+
+-->
 
 <br>
 <div align="center">
@@ -10,8 +30,10 @@ My name is Thiago Fialho and I am a self-taught full stack developer with about 
 </div>
 <br>
 
-- 🔭 I’m currently working on expanding my knowledge on backend skills.
-- 🌱 I’m currently learning advanced Javascript leading into more about Node.js and then React.
+- ⚡ I’m self-taught full stack developer with about 4 years of experience.
+- ⚡ I’m enthusiast for technology, gaming and innovation.
+- ⚡ I’m currently working on expanding my knowledge on backend skills.
+- ⚡ I’m currently learning advanced Javascript leading into more about Node.js and then React.
 - ⚡ I'm currently working remotely, search for remote oportunities.
 
 
