@@ -84,6 +84,6 @@ My name is Thiago Fialho and I am a self-taught full stack developer with about 
 <br>
 <h2 align="center">Feel free to reach out using the links below. Thanks for visiting!</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/thiagofialho/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/thiagofialho00/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/thiagofialho/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/thiagofialho00/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
