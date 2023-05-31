@@ -80,6 +80,7 @@ My name is Thiago Fialho and I am a self-taught full stack developer with about 
 <h2 align="center">Check out some of my recent projects and Demos:</h2>
 
 - A simple crud made with NestJs: [Repository](https://github.com/Thiago-F/demo-simple-crud-nest)
+- A simple crud made with Raw Nodejs: [Repository](https://github.com/Thiago-F/demo-raw-node-api)
 
 <br>
 <h2 align="center">Feel free to reach out using the links below. Thanks for visiting!</h2>
