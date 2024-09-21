@@ -30,7 +30,7 @@ My name is Thiago Fialho and I am a self-taught full stack developer with about 
 </div>
 <br>
 
-- ⚡ I’m self-taught full stack developer with about 4 years of experience.
+- ⚡ I’m self-taught full stack developer coding since 2019.
 - ⚡ I’m enthusiast for technology, gaming and innovation.
 - ⚡ I’m currently working on expanding my knowledge on backend skills.
 - ⚡ I’m currently learning advanced Javascript leading into more about Node.js and then React.
